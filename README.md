@@ -1,6 +1,7 @@
 # myapp
 
-A new Flutter project.
+A Flutter project with jenkins CI/CD.
+
 
 ## Getting Started
 
